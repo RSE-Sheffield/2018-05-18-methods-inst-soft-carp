@@ -11,7 +11,6 @@ humantime: "09:00 - 17:00"
 startdate: 2018-05-18
 enddate: 2018-05-23
 instructor: ["Will Furnass", "Tania Allard"]
-helper: []
 email: ["w.furnass@sheffield.ac.uk", "t.allard@sheffield.ac.uk"]
 collaborative_notes: https://etherpad.net/p/2018-05-18-methods-inst-soft-carp
 ---
