@@ -6,7 +6,7 @@ address: "ICOSS, 219 Portobello, Sheffield S1 4DP"
 country: "gb"
 language: "en"
 latlng: "53.381056, -1.481128"
-humandate: "May 18-23 2018"
+humandate: "18, 22, 23 May 2018"
 humantime: "09:00 - 17:00"
 startdate: 2018-05-18
 enddate: 2018-05-23
